@@ -1,4 +1,4 @@
-# Arquivos necessários para criação de uma build para Java com:
+# Build de Java com Maven com as seguintes dependências:
 * JUnit 5.6
 * Hibernate Core 5.4.12
 * Hibernate EntityManager 5.4.12
